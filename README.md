@@ -8,4 +8,4 @@ main - includes the game manager.<br />
 util - includes util files that are responsible for the colors in the game and the layout of the land.<br />
 worlds - includes files that are responsible for the variety of features of the world - avatar, trees, sky, sun, light and darkness and more.<br />
 assets - some images for the different poses the avatar can be in - resting, walking, running, jumping, flying.<br />
-uml - A uml diagram that describes the structure of the program. <br />
+uml - a uml diagram that describes the structure of the program. <br />
