@@ -9,3 +9,7 @@ util - includes util files that are responsible for the colors in the game and t
 worlds - includes files that are responsible for the variety of features of the world - avatar, trees, sky, sun, light and darkness and more.<br />
 assets - some images for the different poses the avatar can be in - resting, walking, running, jumping, flying.<br />
 uml - a uml diagram that describes the structure of the program. <br />
+
+Images from the game:
+![image](https://user-images.githubusercontent.com/87193121/230771574-9ca3c15e-afd1-415e-95a2-0070045b314d.png)
+![image](https://user-images.githubusercontent.com/87193121/230771506-c4197a7d-0e0e-4b28-a36e-97ea788164de.png)
