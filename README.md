@@ -2,7 +2,7 @@
 
 **Description:**
 
-A game that simulates a two-dimensional virtual world. The simulation includes a day-night cycle, trees with leaves that move in the wind, fall in the fall, and grow back. The game avatar can walk, run, jump, and fly.
+A game that simulates a two-dimensional virtual world. The simulation includes a day-night cycle, trees with leaves that move in the wind, fall in the autumn, and grow back. The game avatar can walk, run, jump, and fly.
 
 **Files:**
 
