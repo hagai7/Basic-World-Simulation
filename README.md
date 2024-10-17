@@ -10,8 +10,8 @@ The program contains 3 packages written in Java:
 - `main` - includes the game manager.
 - `util` - includes util files that are responsible for the colors in the game and the layout of the land.
 - `worlds` - includes files that are responsible for the variety of features of the world - avatar, trees, sky, sun, light and darkness, and more.
-- `assets` - some images for the different poses the avatar can be in - resting, walking, running, jumping, flying.
-- `uml` - a UML diagram that describes the structure of the program.
+- `assets` - includes some images for the different poses the avatar can be in - resting, walking, running, jumping, flying.
+- `uml` - includes a UML diagram that describes the structure of the program.
 
 **Images from the game:**
 
