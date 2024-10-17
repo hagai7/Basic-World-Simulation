@@ -16,6 +16,5 @@ The program contains 3 packages written in Java:
 **Images from the game:**
 
 ![image](https://user-images.githubusercontent.com/87193121/230771574-9ca3c15e-afd1-415e-95a2-0070045b314d.png)
-![image](https://user-images.githubusercontent.com/87193121/230771506-c4197a7d-0e0e-4b28-a36e-97ea788164de.png)
 
 ---
