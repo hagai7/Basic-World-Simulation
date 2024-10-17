@@ -13,7 +13,7 @@ The program contains 3 packages written in Java:
 - `assets` - includes some images for the different poses the avatar can be in - resting, walking, running, jumping, flying.
 - `uml` - includes a UML diagram that describes the structure of the program.
 
-**Images from the game:**
+**image from the game:**
 
 ![image](https://user-images.githubusercontent.com/87193121/230771574-9ca3c15e-afd1-415e-95a2-0070045b314d.png)
 
