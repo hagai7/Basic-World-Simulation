@@ -1,20 +1,41 @@
-# Basic World Simulation
+# **Basic World Simulation**
+## **Description:**
+A Java-based simulation of a two-dimensional virtual world with dynamic environmental features. The simulation includes a day-night cycle, animated trees with seasonal behavior (wind movement, leaf fall in autumn, regrowth), and a controllable avatar that can walk, run, jump, and fly.
 
-**Description:**
+## **Prerequisites:**
+- Java (JDK 8 or higher)
+- A text editor or IDE (e.g. IntelliJ, VSCode)
 
-A game that simulates a two-dimensional virtual world. The simulation includes a day-night cycle, trees with leaves that move in the wind, fall in the autumn, and grow back. The game avatar can walk, run, jump, and fly.
+## **Setup Instructions:**
 
-**Files:**
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/yourusername/basic-world-simulation.git
+    cd basic-world-simulation
+    ```
 
-The program contains 3 packages written in Java:
-- `main` - includes the game manager.
-- `util` - includes util files that are responsible for the colors in the game and the layout of the land.
-- `worlds` - includes files that are responsible for the variety of features of the world - avatar, trees, sky, sun, light and darkness, and more.
-- `assets` - includes some images for the different poses the avatar can be in - resting, walking, running, jumping, flying.
-- `uml` - includes a UML diagram that describes the structure of the program.
+2. **Compile the Code:**
+    ```bash
+    javac main/Game.java
+    ```
 
-**Screenshot:**
+3. **Run the Simulation:**
+    ```bash
+    java main.Game
+    ```
+
+## **Project Structure:**
+The project is organized into several Java packages:
+- `main` – Manages the game logic and simulation flow
+- `util` – Utility classes for terrain layout and color management
+- `worlds` – Implements world features including avatar behavior, trees, sky, lighting, and environment dynamics
+- `assets` – Contains images representing different avatar poses: resting, walking, running, jumping, flying
+- `uml` – Includes a UML diagram showing the structure and design of the program
+
+## **Screenshot:**
 
 ![image](https://user-images.githubusercontent.com/87193121/230771574-9ca3c15e-afd1-415e-95a2-0070045b314d.png)
 
 ---
+
+Feel free to extend the simulation with new terrain types, weather effects, or enhanced avatar interactions.
