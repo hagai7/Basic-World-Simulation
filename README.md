@@ -1,4 +1,4 @@
-# **Basic World Simulation**
+# **World Simulation**
 ## **Description:**
 A Java-based simulation of a two-dimensional virtual world with dynamic environmental features. The simulation includes a day-night cycle, animated trees with seasonal behavior (wind movement, leaf fall in autumn, regrowth), and a controllable avatar that can walk, run, jump, and fly.
 
